@@ -1,5 +1,4 @@
-Perfect — let’s dockerize this whole stack so you don’t need to juggle system packages or manual configs.
-We’ll run:
+### CUSTOM LOGIC RUSTDESK CONFIG
 
 * **RustDesk servers** (`hbbs` + `hbbr`)
 * **Nginx** (handles both HTTPS website + RustDesk stream proxy)
