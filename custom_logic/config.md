@@ -166,5 +166,3 @@ In RustDesk client:
 * Auto-renews SSL via Certbot
 
 ---
-
-Do you want me to extend this so **relay (`hbbr`) also gets a subdomain** (`relay.yourdomain.com`) and its own TLS (not just raw ports), so everything feels consistent under HTTPS?
